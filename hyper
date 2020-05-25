@@ -1,4 +1,4 @@
-#hyper perameters which you want to check
+##hyper perameters which you want to check
 Type:cnn
 
 acti='linear'

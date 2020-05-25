@@ -120,3 +120,4 @@ model.save('/root/py/'+str(epoch)+str(pool)+str(kernel)+str(acti)+'.h5')
 with open('/root/py/accuracy','w+') as accu:
 	accu.write(accuracy12)
 
+print('DDone')
