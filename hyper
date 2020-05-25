@@ -1,0 +1,17 @@
+#hyper perameters which you want to check
+Type:cnn
+
+acti='linear'
+acti='relu'
+    
+kernel=(3, 3)
+kernel=(5, 5)
+
+
+pool=(2, 2)
+pool=(4, 4)
+
+epoch=1
+epoch=3
+
+
