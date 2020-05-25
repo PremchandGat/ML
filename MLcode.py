@@ -1,6 +1,6 @@
-acti='linear'
-kernel=(3, 3)
-pool=(2, 2)
+acti='Adam'
+kernel=(5, 5)
+pool=(4, 4)
 epoch=1
 
 

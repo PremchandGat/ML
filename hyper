@@ -1,7 +1,7 @@
 ##hyper perameters which you want to check
 Type:cnn
 
-acti='linear'
+acti='Adam'
 acti='relu'
     
 kernel=(3, 3)
